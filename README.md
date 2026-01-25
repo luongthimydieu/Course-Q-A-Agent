@@ -10,6 +10,12 @@
 <img src="https://img.shields.io/badge/TencentCNB-代码仓库-007ACC?logo=tencent"/>
 </a>
 
+<p align="center">
+  <a href="./docs/project_summary.md">
+    <img src="https://img.shields.io/badge/📋-项目总结-8A2BE2" alt="项目总结"/>
+  </a>
+</p>
+
 
 一个基于大型语言模型的轻量级课程答疑助手，专为计算机专业学习场景设计。通过简洁的代码演示LLM智能体的核心实现原理，适合学习、教学和快速原型开发。
 
